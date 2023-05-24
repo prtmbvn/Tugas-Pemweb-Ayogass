@@ -85,7 +85,7 @@ $alamatView = $row[4];
 
       <div class="column">
         <div class="card">
-          <img src="../asset-img/PROFIL RIFFALDI.jpeg" alt="Mike" style="width:100%">
+          <img src="../asset-img/PROFIL PANJI.jpeg" alt="Mike" style="width:100%">
           <div class="container">
             <b>
               <p class="nama">I Komang Panji 
@@ -99,7 +99,7 @@ $alamatView = $row[4];
 
       <div class="column">
         <div class="card">
-          <img src="../asset-img/PROFIL FAUZI.jpeg" alt="John" style="width:100%">
+          <img src="../asset-img/PROFIL HADID.jpeg" alt="John" style="width:100%">
           <div class="container">
             <b>
               <p class="nama">Abdullah Marwan Hadid
